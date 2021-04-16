@@ -1,4 +1,4 @@
-package generic.classlevel;
+package generic.basic;
 
 public class Employee {
     private String name;

@@ -1,4 +1,4 @@
-package generic.classlevel;
+package generic.basic;
 
 import java.util.ArrayList;
 import java.util.List;

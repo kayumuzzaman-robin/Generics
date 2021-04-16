@@ -1,4 +1,4 @@
-package generic.classlevel;
+package generic.basic;
 
 public class GenericClass<T> {
     private T object;
