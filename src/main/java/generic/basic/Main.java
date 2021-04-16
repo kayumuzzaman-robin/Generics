@@ -25,5 +25,12 @@ public class Main {
         GenericMethod.genericMethodData(100);
         GenericMethod.genericMethodData("Hello");
         GenericMethod.genericMethodData(5.55);
+
+        System.out.println();
+
+        List<Rectangle> rectangleList = new ArrayList<>();
+        rectangleList.add(new Rectangle());
+        rectangleList.add(new Rectangle());
+        BasicWildcard.drawShapes(rectangleList);
     }
 }
